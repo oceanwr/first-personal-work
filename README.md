@@ -1,4 +1,4 @@
 # first-personal-work
-ciyun.py is the code.
-
+first.py is the code.
+ciyun.py is an error.
 repote.PNG is the final result.
